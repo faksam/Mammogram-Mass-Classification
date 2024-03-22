@@ -1,5 +1,5 @@
 # Mammogram-Mass-Classification
-Final project from **Machine Learning, Data Science and Deep Learning with Python** by Udemy [**[Certificate](https://www.udemy.com/certificate/UC-695fd1d5-39f9-426a-920f-3d2d53c20773/)**]
+Final project from **Machine Learning, Data Science and Deep Learning with Python** by Udemy [**[Certificate](https://www.udemy.com/certificate/UC-0ba42c7d-2146-4d5e-97fe-9d8104e91eda/)**]
 
 A lot of unnecessary anguish and surgery arises from false positives arising from mammogram results. If we can build a better way to interpret them through supervised machine learning, it could improve a lot of lives. **In this project, the goal is to predict the severity (benign or malignant) of a mammographic mass lesion by applying supervised machine learning tenichques and neural networks.**
 
